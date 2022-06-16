@@ -92,7 +92,7 @@ int main()
 		cetak(matrix, 0, 0);
 
 	else
-		printf("Sudoku ini tidak bisa diselesaikan");
+		printf("\nSudoku ini tidak bisa diselesaikan");
 
 	return 0;
 }
